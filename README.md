@@ -1,5 +1,7 @@
 # Data Modelling
 
+### Overview: Creation of two different data schemas to model data collected by a coffee shop. 
+
 Creation of a star schema data model for a coffee shop.
 
 
