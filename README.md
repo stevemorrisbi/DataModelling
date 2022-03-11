@@ -12,4 +12,5 @@ Creation of a star schema data model for a coffee shop.
 Creation of a more advanced snowflake schema data model for a chain of coffee shops. 
 
 
-![Snowflake Schema](https://user-images.githubusercontent.com/99413257/157258565-50e0180d-90d2-48fd-80bc-59d41ccb4fc2.jpg)
+![Snowflake Schema 2](https://user-images.githubusercontent.com/99413257/157870749-77c6f726-d65a-4bdc-89c6-d3c87c6f5858.jpg)
+
