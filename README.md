@@ -14,3 +14,5 @@ Creation of a more advanced snowflake schema data model for a chain of coffee sh
 
 ![Snowflake Schema 2](https://user-images.githubusercontent.com/99413257/157870749-77c6f726-d65a-4bdc-89c6-d3c87c6f5858.jpg)
 
+Why have the extra tables been created and why would they be useful?
+
