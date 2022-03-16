@@ -5,7 +5,8 @@
 Creation of a star schema data model for a coffee shop. This model was used based on the data collected to seperate the numerical data from the descriptve data. 
 
 
-![Star Schema](https://user-images.githubusercontent.com/99413257/157258523-b339a98c-473b-4b78-9bf3-9619de881339.jpg)
+![Star](https://user-images.githubusercontent.com/99413257/158644136-58959878-251c-47d0-a0a2-117900ee9709.jpg)
+
 
 
 
@@ -13,6 +14,7 @@ Below is the creation of a more advanced snowflake schema data model to build on
 The creation of this model needed extra care to ensure columns did not feature multiple times in the numerous dimension tables that needed to be added. New keys had to be added to allow for ease of querieing the new data collected. 
 
 
-![Snowflake Schema 2](https://user-images.githubusercontent.com/99413257/157870749-77c6f726-d65a-4bdc-89c6-d3c87c6f5858.jpg)
+![Snowflake](https://user-images.githubusercontent.com/99413257/158644180-ff8f3189-2e86-491e-84e7-fd4633657e60.jpg)
+
 
 
